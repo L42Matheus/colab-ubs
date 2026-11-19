@@ -2,7 +2,7 @@
 
 Leia o [artigo com resultados e referências](ARTIGO.md) ou consulte as [coordenadas das UBS](dados/ubs.csv) e os [cenários calculados](cenarios.csv).
 
-O notebook da disciplina foi preservado com as saídas removidas para publicação. Sua etapa original de importação depende de um CSV local do CNES. Para reproduzir o estudo atualizado, use os arquivos em dados/ e rode na raiz do repositório:
+[Abra o notebook simplificado no Colab](https://colab.research.google.com/github/L42Matheus/colab-ubs/blob/main/Sensoriamento_Inteligente_UBS_Campina_Grande.ipynb) e execute as três etapas. A [versão original da disciplina, com K-Means](https://github.com/L42Matheus/colab-ubs/blob/1fbaeda/Sensoriamento_Inteligente_UBS_Campina_Grande.ipynb), continua disponível. Para reproduzir a simulação pelo terminal, rode na raiz do repositório:
 
 ```sh
 python -m pip install numpy scipy shapely pyproj
