@@ -2,7 +2,7 @@
 
 Leia o [artigo com resultados e referências](ARTIGO.md) ou consulte as [coordenadas das UBS](dados/ubs.csv) e os [cenários calculados](cenarios.csv).
 
-[Abra o notebook simplificado no Colab](https://colab.research.google.com/github/L42Matheus/colab-ubs/blob/main/Sensoriamento_Inteligente_UBS_Campina_Grande.ipynb) e execute as três etapas. A [versão original da disciplina, com K-Means](https://github.com/L42Matheus/colab-ubs/blob/1fbaeda/Sensoriamento_Inteligente_UBS_Campina_Grande.ipynb), continua disponível. Para reproduzir a simulação pelo terminal, rode na raiz do repositório:
+[Abra o notebook da disciplina no Colab](https://colab.research.google.com/github/L42Matheus/colab-ubs/blob/main/Sensoriamento_Inteligente_UBS_Campina_Grande.ipynb) e escolha “Executar tudo” para gerar indicadores, agrupamentos, mapas e cenários. A [versão original da disciplina, com K-Means](https://github.com/L42Matheus/colab-ubs/blob/1fbaeda/Sensoriamento_Inteligente_UBS_Campina_Grande.ipynb), continua disponível. Para reproduzir a simulação pelo terminal, rode na raiz do repositório:
 
 ```sh
 python -m pip install numpy scipy shapely pyproj
